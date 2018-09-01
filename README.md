@@ -2,8 +2,11 @@
 - git status - will show if we have anything that needs to be commited.
 - git commit -m "message here" - will commit the snapshot. "Present tense - verb indicate what you are doing".
 - git log - will show you the history of your snap shots
--git add *.html (or different file type doesnt have to be .html) - Adds all file types to the staging area.
-
+- git add *.html (or different file type doesnt have to be .html) - Adds all file types to the staging area.
+- git add . - will add all the files to the staging area.
+- git add -A - add all files and folders from the directory you are in even hidden files. this is a good command for adding everything
+- in your project at one time
+- 
 # Working Directory
 - Area where all of our files and directories and changes are living all the time
 - 
