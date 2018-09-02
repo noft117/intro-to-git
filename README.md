@@ -36,8 +36,9 @@
 - git branch -d <branch_name>
 
 - UPLOADING TO GITHUB
-- git remote add origin <url> - uploads to git hub, get repository url from github 
-- git remote -v  - check if remote is added
+- git remote add origin <url> - connects c9 with the repository, get repository url from github 
+- git remote -v  - check if remote is added to c9
+- git push -u origin master - uploads to github.
 Branch representation:
          /-----0---0----0
         /          / <-merge or fast foward
