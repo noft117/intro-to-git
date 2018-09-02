@@ -37,6 +37,7 @@
 
 - UPLOADING TO GITHUB
 - git remote add origin <url> - uploads to git hub, get repository url from github 
+- git remote -v  - check if remote is added
 Branch representation:
          /-----0---0----0
         /          / <-merge or fast foward
