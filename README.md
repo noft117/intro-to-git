@@ -11,15 +11,22 @@
 
 # Working Directory
 - Area where all of our files and directories and changes are living all the time
-- 
-
-
 
 # Staging Area
-
-- 
 - git status will show if we have anything that needs to be commited.
-- 
 
 # Git Repository
 - Where all our snapshots are stored.
+
+# Git Branches
+- Listing all branches
+- git branch
+- Adding a branches
+- git checkout -b <branch_name>
+- Changing branches
+- Merging a branch
+- Removing a branch
+
+         /-----0---0----0
+        /              /
+0------0----0----0----0
