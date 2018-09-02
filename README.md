@@ -35,6 +35,8 @@
 - Removing a branch
 - git branch -d <branch_name>
 
+- UPLOADING TO GITHUB
+- git remote add origin <url> - uploads to git hub, get repository url from github 
 Branch representation:
          /-----0---0----0
         /          / <-merge or fast foward
