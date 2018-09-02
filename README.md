@@ -6,7 +6,9 @@
 - git add . - will add all the files to the staging area.
 - git add -A - add all files and folders from the directory you are in even hidden files. this is a good command for adding everything
 - in your project at one time
-- 
+- git reset HEAD <file> will remove a file.
+- mv <file u want to change> <new file name> - can rename from console
+
 # Working Directory
 - Area where all of our files and directories and changes are living all the time
 - 
