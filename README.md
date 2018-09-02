@@ -21,12 +21,24 @@
 # Git Branches
 - Listing all branches
 - git branch
+ 
 - Adding a branches
 - git checkout -b <branch_name>
-- Changing branches
-- Merging a branch
-- Removing a branch
 
+- Changing branches
+- git checkout <branch_name>
+ 
+- Merging a branch
+- git merge <branch_name> 
+- remember to checkout into master branch then merge it into the master branch.
+
+- Removing a branch
+- git branch -d <branch_name>
+
+Branch representation:
          /-----0---0----0
-        /              /
+        /          / <-merge or fast foward
 0------0----0----0----0
+
+0 = commits,
+/ = new branch
